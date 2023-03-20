@@ -1,0 +1,16 @@
+C:\Users\Frame5\Desktop\Book\Book\bin\Book.dll.config
+C:\Users\Frame5\Desktop\Book\Book\bin\Book.dll
+C:\Users\Frame5\Desktop\Book\Book\bin\Book.pdb
+C:\Users\Frame5\Desktop\Book\Book\bin\MySql.Data.EntityFramework.dll
+C:\Users\Frame5\Desktop\Book\Book\bin\MySql.Data.EntityFramework.xml
+C:\Users\Frame5\Desktop\Book\Book\obj\Debug\Book.csprojResolveAssemblyReference.cache
+C:\Users\Frame5\Desktop\Book\Book\obj\Debug\Book.dll
+C:\Users\Frame5\Desktop\Book\Book\obj\Debug\Book.pdb
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Book\Book\bin\Book.dll.config
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Book\Book\bin\Book.dll
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Book\Book\bin\Book.pdb
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Book\Book\bin\MySql.Data.EntityFramework.dll
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Book\Book\bin\MySql.Data.EntityFramework.xml
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Book\Book\obj\Debug\Book.csprojResolveAssemblyReference.cache
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Book\Book\obj\Debug\Book.dll
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Book\Book\obj\Debug\Book.pdb
