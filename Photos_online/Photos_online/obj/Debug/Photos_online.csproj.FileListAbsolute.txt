@@ -1,0 +1,43 @@
+c:\users\it435\documents\visual studio 2013\Projects\Photos_online\Photos_online\bin\Photos_online.dll.config
+c:\users\it435\documents\visual studio 2013\Projects\Photos_online\Photos_online\bin\Photos_online.dll
+c:\users\it435\documents\visual studio 2013\Projects\Photos_online\Photos_online\bin\Photos_online.pdb
+c:\users\it435\documents\visual studio 2013\Projects\Photos_online\Photos_online\obj\Debug\Photos_online.csprojResolveAssemblyReference.cache
+c:\users\it435\documents\visual studio 2013\Projects\Photos_online\Photos_online\obj\Debug\Photos_online.dll
+c:\users\it435\documents\visual studio 2013\Projects\Photos_online\Photos_online\obj\Debug\Photos_online.pdb
+C:\Users\Nitro 5\Desktop\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\Photos_online.dll.config
+C:\Users\Nitro 5\Desktop\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\Photos_online.dll
+C:\Users\Nitro 5\Desktop\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\Photos_online.pdb
+C:\Users\Nitro 5\Desktop\ตัวติดตั้ง C#\Photos_online\Photos_online\obj\Debug\Photos_online.csprojResolveAssemblyReference.cache
+C:\Users\Nitro 5\Desktop\ตัวติดตั้ง C#\Photos_online\Photos_online\obj\Debug\Photos_online.dll
+C:\Users\Nitro 5\Desktop\ตัวติดตั้ง C#\Photos_online\Photos_online\obj\Debug\Photos_online.pdb
+C:\Users\Nitro 5\Desktop\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\MySql.Data.EntityFramework.dll
+C:\Users\Nitro 5\Desktop\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\MySql.Data.EntityFramework.xml
+C:\Users\Nitro 5\Desktop\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\Recaptcha.dll
+C:\Users\Nitro 5\Desktop\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\Recaptcha.pdb
+D:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\obj\Debug\Photos_online.csprojResolveAssemblyReference.cache
+D:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\obj\Debug\Photos_online.dll
+D:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\obj\Debug\Photos_online.pdb
+D:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\Photos_online.dll.config
+D:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\Photos_online.dll
+D:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\Photos_online.pdb
+D:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\MySql.Data.EntityFramework.dll
+D:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\MySql.Data.EntityFramework.xml
+D:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\Recaptcha.pdb
+F:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\Photos_online.dll.config
+F:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\Photos_online.dll
+F:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\Photos_online.pdb
+F:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\MySql.Data.EntityFramework.xml
+F:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\Recaptcha.pdb
+F:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\obj\Debug\Photos_online.csprojResolveAssemblyReference.cache
+F:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\obj\Debug\Photos_online.dll
+F:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\obj\Debug\Photos_online.pdb
+F:\ตัวติดตั้ง C#\ตัวติดตั้ง C#\Photos_online\Photos_online\bin\MySql.Data.EntityFramework.dll
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Photos_online\Photos_online\bin\Photos_online.dll.config
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Photos_online\Photos_online\bin\Photos_online.dll
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Photos_online\Photos_online\bin\Photos_online.pdb
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Photos_online\Photos_online\bin\MySql.Data.EntityFramework.dll
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Photos_online\Photos_online\bin\MySql.Data.EntityFramework.xml
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Photos_online\Photos_online\bin\Recaptcha.pdb
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Photos_online\Photos_online\obj\Debug\Photos_online.csprojResolveAssemblyReference.cache
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Photos_online\Photos_online\obj\Debug\Photos_online.dll
+C:\Users\Frame5\Desktop\แฟ้มทั้งหมด\Photos_online\Photos_online\obj\Debug\Photos_online.pdb
